@@ -1,4 +1,4 @@
-# BRCA Subtype Analysis 🧬  
+# BRCA Subtype Analysis   
 
 ##  Notebook Overview  
  **Data Loading**: Importing BRCA datasets from TCGA or other relevant sources  
