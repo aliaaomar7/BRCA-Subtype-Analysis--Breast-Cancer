@@ -1,6 +1,6 @@
 # BRCA Subtype Analysis 🧬  
 
-## 📌 Notebook Overview  
+##  Notebook Overview  
  **Data Loading**: Importing BRCA datasets from TCGA or other relevant sources  
  **Preprocessing**: Cleaning, normalizing data, and handling missing values  
  **Feature Selection**: Identifying key genomic features for subtype classification  
@@ -15,7 +15,7 @@
   - `numpy`, `pandas`, `matplotlib`, `seaborn`  
   - `scikit-learn`, `tensorflow`/`pytorch`  
 
-## 📈 Expected Outputs  
+##  Expected Outputs  
  Classification performance metrics (**accuracy, precision, recall, F1-score**)  
  Confusion matrix for model evaluation  
  Visualization of BRCA subtype distributions  
